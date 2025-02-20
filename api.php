@@ -31,8 +31,8 @@ if(isset($_GET['api'])) {
             // montando a resposta dos dados recebidos
             $response = [
                 'mensagem' => 'Dados recebidos com sucesso!',
-                'dados recebidos <br>' => $postData,
-                'status <br>' => 'sucesso'
+                'dados recebidos' => $postData,
+                'status' => 'sucesso'
             ];
             echo json_encode($response);
         } else {
