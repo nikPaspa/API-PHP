@@ -36,7 +36,7 @@ Projeto web que demonstra o uso de uma API (em PHP) integrada com uma interface 
 
 **Clonar o repositório**
 ```
-git clone https://github.com/nikPaspa/ESTUDO-DE-API-PHP.git
+git clone https://github.com/nikPaspa/STUDY-API-PHP.git
 ```
 
 **Configurar um servidor local**
@@ -44,7 +44,7 @@ git clone https://github.com/nikPaspa/ESTUDO-DE-API-PHP.git
 * **Este projeto depende de um servidor PHP para executar o api.php.**
 * **Você pode usar o PHP embutido para testes:**
 ```
-cd ESTUDO-DE-API-PHP
+cd STUDY-API-PHP
 php -S localhost:8000
 ```
 *Alternativamente, utilize ferramentas como XAMPP ou WAMP para servir os arquivos.*
