@@ -60,16 +60,16 @@ if(isset($_GET['api'])) {
 
 <head>
     <meta charset="UTF-8">
-    <title>Teste de API</title>
+    <title>API</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
-        <h1>Teste de API</h1>
+        <h1>API</h1>
     </header>
     <div class="container">
-        <h2>Testar API</h2>
+        <h2>API</h2>
         <p>Clique no botão abaixo para fazer uma requisição GET para a API.</p>
         <button class="btn" onclick="chamarAPI()">Chamar API (GET)</button>
 
