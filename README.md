@@ -81,4 +81,5 @@ http://localhost:8000/api.php
 
 # Foto da Página: 
 
-![Imagem do WhatsApp de 2025-02-20 à(s) 18 03 50_b845a27d](https://github.com/user-attachments/assets/dc559c7c-290c-4d0a-9906-e7e24516879d)
+![Imagem do WhatsApp de 2025-02-20 à(s) 18 08 58_13a8cc10](https://github.com/user-attachments/assets/c1745ceb-e394-4481-ac8f-8896689051d5)
+
